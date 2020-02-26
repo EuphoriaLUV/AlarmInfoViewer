@@ -49,18 +49,7 @@
  ```
  |Element|Description|Type|
  |:---|:---||:---|
- | Name | Alarm Name | String(English Only) |
- | NO | Alarm No | Integer |
- | CODE | 1 : Light | 1 or 2 |
- |      | 2 : Heavy |        |
- | PART | Alarm 발생 Unit | String(English Only) |
- | TYPE | Alarm Type(내부적으로 사용하지는 않음.) | Integer |
- | Message | Alarm Message(English Only) | String(English Only) |
- | Image | Background Image File 경로(jpg만 지원) | String |
- | POS_X | Alarm 발생 부위 포인터 활성화 X 위치 | Double |
- | POS_Y | Alarm 발생 부위 포인터 활성화 Y 위치 | Double |
- | Cause | Alarm 발생 원인 | String(다국어) |
- | Management | Alarm 조치 방법 | String(다국어) |
+
  <br>
  <br>
 
