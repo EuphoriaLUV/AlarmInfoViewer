@@ -6,7 +6,7 @@
 * File Remover
 <br>
 <br>
-<br>
+
 ### Alarm File Load(XML)
  * File Path
 > C:\Program Files\ISoft\Common\AlarmInfoViewer\AlarmInfoViewer.exe.config
