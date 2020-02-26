@@ -67,7 +67,7 @@
 
 ### Alarm 발생 위치 Image Load(jpg) 및 Pointer
  * jpg File Load 만 가능 Alarm File Table의 Image Element 값에서 Image Load
- >
+
     ```Xml
     <Table>
         <Name>eERR_DOOR_OPEN1</Name>
