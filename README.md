@@ -71,7 +71,7 @@
 
  * Pointer 위치 등록 방법
         + Xml Direct 편집 : Alarm File의 POS_X, POS_Y Element 값을 직접 수정
-        ```Xml
+        > ```Xml
                  <POS_X>419.4</POS_X>
                  <POS_Y>534.35</POS_Y>
         ```
