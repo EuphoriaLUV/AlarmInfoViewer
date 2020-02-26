@@ -47,6 +47,13 @@
     ......
  </Group>
  ```
+
+ |Value|Description|
+ |:---|:---|
+ | 0 | Local Storage SQLite DB |
+ | 1 | Network Drive Storage SQLite DB |
+ | 2 | IPV6 MySQL or Maria DB |
+
  |Element|Description|Type|
  |:---|:---||:---|
 
