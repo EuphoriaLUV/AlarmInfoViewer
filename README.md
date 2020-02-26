@@ -1,14 +1,14 @@
 # AlarmInfoViewer
-- Alarm File Load(XML)
-- Alarm 발생 위치 Image Load(jpg) 및 Pointer
-- Alarm 관련 Cause / Management 관련 다국어 지원
-- MFC에서 Alarm Screen 없을 시 UI 대체
-- File Remover
+* Alarm File Load(XML)
+* Alarm 발생 위치 Image Load(jpg) 및 Pointer
+* Alarm 관련 Cause / Management 관련 다국어 지원
+* MFC에서 Alarm Screen 없을 시 UI 대체
+* File Remover
 <br>
 <br>
 <br>
 ### Alarm File Load(XML)
-- File Path
+ * File Path
 > C:\Program Files\ISoft\Common\AlarmInfoViewer\AlarmInfoViewer.exe.config
 
 ```Xml
@@ -24,9 +24,9 @@
 </configuration>
 ```
 > <add key="AlarmInfoFile" value="D:\XXXXX\Config\Data\AlarmInfo.xml"/>
-  Program 실행 시 Load 할 Alarm file 경로
+  value attribute 값 Program 실행 시 Load 할 Alarm file 경로로 수정
 
- - Alarm File 구조
+ * Alarm File 구조
  ```Xml
  <?xml version="1.0" standalone="yes"?>
  <Group Attr1="AlarmTable" Attr2="KAlarmEnum" Attr3="" Attr4="" Attr5="" Type="eKAlarmEnumType">
