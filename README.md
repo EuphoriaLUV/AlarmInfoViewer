@@ -77,9 +77,9 @@
         <POS_Y>534.35</POS_Y>
         ```
 
-        + AlarmInfoViewer Edit 기능 활성화
-        >![title](https://github.com/EuphoriaLUV/AlarmInfoViewer/blob/master/Image/Edit1.jpg)
-        ![title](https://github.com/EuphoriaLUV/AlarmInfoViewer/blob/master/Image/Edit2.jpg)
+    * AlarmInfoViewer Edit 기능 활성화
+    >![title](https://github.com/EuphoriaLUV/AlarmInfoViewer/blob/master/Image/Edit1.jpg)
+    ![title](https://github.com/EuphoriaLUV/AlarmInfoViewer/blob/master/Image/Edit2.jpg)
 <br>
 <br>
 
