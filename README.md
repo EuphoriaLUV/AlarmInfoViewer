@@ -145,15 +145,24 @@
 
 
 ### File Remover
-> Environment Presenter
-```c#
-    public xAppEnvUxPresenter(IxAppEnvUxView view, IxAppEnvUx repository)
-    {
-        ...
-    }
+* File Path
+> C:\Program Files\ISoft\Common\AlarmInfoViewer\RemoverCfg.xml
 
-    public void UpdateAppEnvView();
-    public void ApplyEnv();
-    public void SaveEnv();
+```Xml
+<?xml version="1.0" encoding="utf-8" ?>
+<Remover>
+	<DiffDays>90</DiffDays>
+	<Paths>
+		<Path>D:\XXXX\Setting\Backup\</Path>
+		<Path>D:\XXXX\Log\</Path>
+        <Path>D:\XXXX\Data\Backup\</Path>
+
+        ......
+
+	</Paths>
+</Remover>
 ```
+> Path Element 들의 Value 값 경로의 하위 Directory에서 DiffDays 이전의 File 들을 Background에서 삭제시킴
+
+  
 ### Access Solution
