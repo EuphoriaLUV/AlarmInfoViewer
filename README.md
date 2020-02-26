@@ -55,7 +55,7 @@
  | 2 | IPV6 MySQL or Maria DB |
 
  |Element|Description|Type|
- |:---|:---||:---|
+ |:---|:---|:---|
 
  <br>
  <br>
