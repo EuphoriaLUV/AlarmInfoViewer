@@ -4,7 +4,7 @@
 * Alarm 관련 Cause / Management 관련 다국어 지원
 * MFC에서 Alarm Screen 없을 시 UI 대체
 * File Remover
-* Access Solution
+* Interface Solution
 
 <br>
 <br>
@@ -138,22 +138,12 @@
  > Cause 와 Management에 관해서만 지원(Alarm 발생 위치 Image Load 참고)
 
 
+
 ### MFC에서 Alarm Screen 없을 시 UI 대체
-> Environment View interface
-```c#
-    public interface IxAppEnvUxView
-    {
-        int UseWebItemTitle { get; set; }
-        int UseDBItemChk { get; set; }
-        int DatabaseType { get; set; }
+> Interface 방법에 의해 MFC에서 Alarm Happen 및 Reset 처리
+    ![title](https://github.com/EuphoriaLUV/AlarmInfoViewer/blob/master/Image/AlarmHappen.jpg "Alarm Happen")
 
-        xReviewEnv Review { get; set; }
-        xPurchaseEnv Purchases { get; set; }
 
-        Presenter.xAppEnvUxPresenter Presenter { set; }
-    }
-
-```
 ### File Remover
 > Environment Presenter
 ```c#
