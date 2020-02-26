@@ -67,7 +67,53 @@
 
 ### Alarm 발생 위치 Image Load(jpg) 및 Pointer
  * jpg File Load 만 가능 Alarm File Table의 Image Element 값에서 Image Load
- > ex) <Image>D:\XXXXX\Config\GUI\Image\XXXX.jpg</Image>
+ >
+    ```Xml
+    <Table>
+        <Name>eERR_DOOR_OPEN1</Name>
+        <NO>310</NO>
+        <CODE>2</CODE>
+        <PART>SYSTEM</PART>
+        <TYPE>1</TYPE>
+        <Message>ERR_DOOR_OPEN1</Message>
+        <Image>D:\MPSC\Config\GUI\Image\Flower1.jpg</Image>
+        <POS_X>156.15</POS_X>
+        <POS_Y>236.85</POS_Y>
+        <Cause>이 것을 어떻게 조치하냐?</Cause>
+        <Management>나도 모르겠다.</Management>
+      </Table>
+      <Table>
+        <Name>eERR_DOOR_OPEN2</Name>
+        <NO>311</NO>
+        <CODE>2</CODE>
+        <PART>SYSTEM</PART>
+        <TYPE>1</TYPE>
+        <Message>ERR_DOOR_OPEN2</Message>
+        <Image>D:\MPSC\Config\GUI\Image\Flower2.jpg</Image>
+        <POS_X>432.7</POS_X>
+        <POS_Y>221.6</POS_Y>
+        <Cause>怎么做</Cause>
+        <Management>我也不知道</Management>
+      </Table>
+      <Table>
+        <Name>eERR_DOOR_OPEN3</Name>
+        <NO>312</NO>
+        <CODE>2</CODE>
+        <PART>SYSTEM</PART>
+        <TYPE>1</TYPE>
+        <Message>ERR_DOOR_OPEN3</Message>
+        <Image>D:\MPSC\Config\GUI\Image\Flower3.jpg</Image>
+        <POS_X>595.95</POS_X>
+        <POS_Y>104.9</POS_Y>
+        <Cause>Làm thế nào tôi nên đối phó với điều này?</Cause>
+        <Management>Tôi cũng không biết.</Management>
+      </Table>
+
+    ```
+ >![title](https://github.com/EuphoriaLUV/AlarmInfoViewer/blob/master/Image/ImageLoad1.jpg "eERR_DOOR_OPEN1 Click")
+  ![title](https://github.com/EuphoriaLUV/AlarmInfoViewer/blob/master/Image/ImageLoad2.jpg "eERR_DOOR_OPEN2 Click")
+  ![title](https://github.com/EuphoriaLUV/AlarmInfoViewer/blob/master/Image/ImageLoad3.jpg "eERR_DOOR_OPEN3 Click")
+
 
  * Pointer 위치 등록 방법
     * Xml Direct 편집 : Alarm File의 POS_X, POS_Y Element 값을 직접 수정
