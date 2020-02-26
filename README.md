@@ -66,8 +66,8 @@
  <br>
 
 ### Alarm 발생 위치 Image Load(jpg) 및 Pointer
- * jpg File Load 만 가능 Alarm File Table의 Image Element 값에서 Image Load<br>
-    ex) <Image>D:\XXXXX\Config\GUI\Image\XXXX.jpg</Image>
+ * jpg File Load 만 가능 Alarm File Table의 Image Element 값에서 Image Load
+ > ex) <Image>D:\XXXXX\Config\GUI\Image\XXXX.jpg</Image>
 
  * Pointer 위치 등록 방법
         + Xml Direct 편집 : Alarm File의 POS_X, POS_Y Element 값을 직접 수정
