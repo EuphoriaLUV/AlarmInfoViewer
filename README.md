@@ -76,7 +76,7 @@
            <POS_Y>534.35</POS_Y>
   ```
 > AlarmInfoViewer Edit 기능 활성화
-![CreatePlan](./image/Edit_Pre1.jpg)
+![title](./image/Edit_Pre1.jpg)
 <br>
 <br>
 
