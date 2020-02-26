@@ -4,6 +4,8 @@
 * Alarm 관련 Cause / Management 관련 다국어 지원
 * MFC에서 Alarm Screen 없을 시 UI 대체
 * File Remover
+* Access Solution
+
 <br>
 <br>
 
@@ -133,24 +135,10 @@
 <br>
 
 ### Alarm 관련 Cause / Management 관련 다국어 지원
+ * Cause 와 Management에 관해서만 지원
+ > Alarm 발생 위치 Image Load 참고
 
-
-
-
-```c#
-    public class xAppEnvUx : IxAppEnvUx
-    {
-        public xAppEnvUx(string fullPath)
-        {  
-            ...
-        }
-
-        public xAppEnv Get();
-        public void Save(xAppEnv env);
-    }
-```
-
-## View
+### MFC에서 Alarm Screen 없을 시 UI 대체
 > Environment View interface
 ```c#
     public interface IxAppEnvUxView
@@ -166,7 +154,7 @@
     }
 
 ```
-## Presenter
+### File Remover
 > Environment Presenter
 ```c#
     public xAppEnvUxPresenter(IxAppEnvUxView view, IxAppEnvUx repository)
@@ -178,3 +166,4 @@
     public void ApplyEnv();
     public void SaveEnv();
 ```
+### Access Solution
