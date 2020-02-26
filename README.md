@@ -76,7 +76,7 @@
         <PART>SYSTEM</PART>
         <TYPE>1</TYPE>
         <Message>ERR_DOOR_OPEN1</Message>
-        <Image>D:\MPSC\Config\GUI\Image\Flower1.jpg</Image>
+        <Image>D:\XXXX\Config\GUI\Image\Flower1.jpg</Image>
         <POS_X>156.15</POS_X>
         <POS_Y>236.85</POS_Y>
         <Cause>이 것을 어떻게 조치하냐?</Cause>
@@ -89,7 +89,7 @@
         <PART>SYSTEM</PART>
         <TYPE>1</TYPE>
         <Message>ERR_DOOR_OPEN2</Message>
-        <Image>D:\MPSC\Config\GUI\Image\Flower2.jpg</Image>
+        <Image>D:\XXXX\Config\GUI\Image\Flower2.jpg</Image>
         <POS_X>432.7</POS_X>
         <POS_Y>221.6</POS_Y>
         <Cause>怎么做</Cause>
@@ -102,7 +102,7 @@
         <PART>SYSTEM</PART>
         <TYPE>1</TYPE>
         <Message>ERR_DOOR_OPEN3</Message>
-        <Image>D:\MPSC\Config\GUI\Image\Flower3.jpg</Image>
+        <Image>D:\XXXX\Config\GUI\Image\Flower3.jpg</Image>
         <POS_X>595.95</POS_X>
         <POS_Y>104.9</POS_Y>
         <Cause>Làm thế nào tôi nên đối phó với điều này?</Cause>
