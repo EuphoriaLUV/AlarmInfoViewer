@@ -78,8 +78,9 @@
         ```
 
     * AlarmInfoViewer Edit 기능 활성화
-    >![1. Window 화면을 늘리면 숨어있는 Edit Button이 보임](https://github.com/EuphoriaLUV/AlarmInfoViewer/blob/master/Image/Edit1.jpg "ㅁㅁㅁ")
-    ![title](https://github.com/EuphoriaLUV/AlarmInfoViewer/blob/master/Image/Edit2.jpg)
+    >![title](https://github.com/EuphoriaLUV/AlarmInfoViewer/blob/master/Image/Edit1.jpg "Window 화면을 늘리면 Edit Mode 버튼이 보임")
+    ![title](https://github.com/EuphoriaLUV/AlarmInfoViewer/blob/master/Image/Edit2.jpg "Edit Mode 버튼을 클릭하면 Pos->List 와 Save 버튼이 보임")
+    ![title](https://github.com/EuphoriaLUV/AlarmInfoViewer/blob/master/Image/Edit3.jpg "Edit Mode 버튼을 클릭하면 Pos->List 와 Save 버튼이 보임")
 <br>
 <br>
 
