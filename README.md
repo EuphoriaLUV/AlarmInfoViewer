@@ -114,7 +114,7 @@
   ![title](https://github.com/EuphoriaLUV/AlarmInfoViewer/blob/master/Image/ImageLoad2.jpg "eERR_DOOR_OPEN2 Click")
   ![title](https://github.com/EuphoriaLUV/AlarmInfoViewer/blob/master/Image/ImageLoad3.jpg "eERR_DOOR_OPEN3 Click")
 
-
+<br>
  * Pointer 위치 등록 방법
     * Xml Direct 편집 : Alarm File의 POS_X, POS_Y Element 값을 직접 수정
         >
