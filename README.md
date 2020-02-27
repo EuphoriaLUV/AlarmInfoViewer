@@ -158,10 +158,6 @@
 		<Path>D:\XXXX\Setting\Backup\</Path>
 		<Path>D:\XXXX\Log\</Path>
         <Path>D:\XXXX\Data\Backup\</Path>
-
-        ......
-
-	</Paths>
 </Remover>
 ```
 > Path Element 들의 Value 값 경로의 하위 Directory에서 DiffDays(ex. 90일) 이전의 File 들을 Background에서 삭제시킴
@@ -169,3 +165,13 @@
 
 
 ### Access Solution
+    * ISofApp Function 사용
+    |Function|Argument|Description|
+    |:---|:---|:---|
+    |ISofAlarmInfoViewerStart|:---|:---|
+    |ISofAlarmInfoViewerVisible|bool bShow|:---|
+    |ISofAlarmInfoViewerAlarmHappen|int nAlarmNo|:---|
+    |ISofAlarmInfoViewerAlarmReset|:---|:---|
+    |ISofAlarmInfoViewerAlarmSelect|int nAlarmNo|:---|
+
+    * Window SendMessage 사용    
