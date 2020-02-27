@@ -162,7 +162,8 @@
 	</Paths>
 </Remover>
 ```
-> Path Element 들의 Value 값 경로의 하위 Directory에서 DiffDays 이전의 File 들을 Background에서 삭제시킴
+> Path Element 들의 Value 값 경로의 하위 Directory에서 DiffDays(ex. 90일) 이전의 File 들을 Background에서 삭제시킴
 
-  
+
+
 ### Access Solution
