@@ -168,10 +168,10 @@
     * ISofApp Function 사용
     |Function|Argument|Description|
     |:---|:---|:---|
-    |ISofAlarmInfoViewerStart|:---|:---|
-    |ISofAlarmInfoViewerVisible|bool bShow|:---|
-    |ISofAlarmInfoViewerAlarmHappen|int nAlarmNo|:---|
-    |ISofAlarmInfoViewerAlarmReset|:---|:---|
-    |ISofAlarmInfoViewerAlarmSelect|int nAlarmNo|:---|
+    |ISofAlarmInfoViewerStart|||
+    |ISofAlarmInfoViewerVisible|bool bShow||
+    |ISofAlarmInfoViewerAlarmHappen|int nAlarmNo||
+    |ISofAlarmInfoViewerAlarmReset|||
+    |ISofAlarmInfoViewerAlarmSelect|int nAlarmNo||
 
     * Window SendMessage 사용    
