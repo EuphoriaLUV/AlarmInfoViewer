@@ -128,7 +128,8 @@
         ```
 
     * AlarmInfoViewer Edit 기능 활성화
-    [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://www.youtube.com/watch?v=bnaUTZk4SoM)
+    [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s)
+
     >![title](https://github.com/EuphoriaLUV/AlarmInfoViewer/blob/master/Image/Edit1.jpg "Window 화면을 늘리면 Edit Mode 버튼이 보임")
     ![title](https://github.com/EuphoriaLUV/AlarmInfoViewer/blob/master/Image/Edit2.jpg "Edit Mode 버튼을 클릭하면 Pos->List 와 Save 버튼이 보임")
     ![title](https://github.com/EuphoriaLUV/AlarmInfoViewer/blob/master/Image/Edit3.jpg "Mouse 및 Touch로 Pointer 위치 변경 후  Pos->List 클릭 ! 후 Save 버튼 클릭 !")
