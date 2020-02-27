@@ -186,8 +186,8 @@ typedef struct tagCOPYDATASTRUCT {
     __field_bcount(cbData) PVOID lpData;
 } COPYDATASTRUCT, *PCOPYDATASTRUCT;
 ```
-        * Visible Show : dwData(0), cbData(1)
-        * Visible Hide : dwData(0), cbData(0)
-        * Alarm Happen : dwData(1), dbData(AlarmNo)
-        * Alarm Reset  : dwData(2)
-        * Alarm Select : dwData(3), dbData(AlarmNo)
+        - Visible Show : dwData(0), lpData(1)
+        - Visible Hide : dwData(0), lpData(0)
+        - Alarm Happen : dwData(1), lpData(AlarmNo)
+        - Alarm Reset  : dwData(2)
+        - Alarm Select : dwData(3), lpData(AlarmNo)
