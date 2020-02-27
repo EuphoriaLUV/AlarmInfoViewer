@@ -165,14 +165,14 @@
 
 
 ### Access Solution
-    * ISofApp Function 사용
+ * ISofApp Function 사용
 
-    |Function|Argument|Description|
-    |:---|:---|:---|
-    | ISofAlarmInfoViewerStart | none | AlarmViewer Program Excute |
-    | ISofAlarmInfoViewerVisible | bool bShow | AlarmViewer Program Show(true), Hide(false) |
-    | ISofAlarmInfoViewerAlarmHappen | int nAlarmNo | Alarm 발생 시 해당 Alarm No을 AlarmViewer Program에 전달 |
-    | ISofAlarmInfoViewerAlarmReset | none | Alarm Reset 이벤트 발생 시 Program에 전달 |
-    | ISofAlarmInfoViewerAlarmSelect | int nAlarmNo | 선택 된 Alarm No의 Alarm 정보를 Display |
+|Function|Argument|Description|
+|:---|:---|:---|
+| ISofAlarmInfoViewerStart | none | AlarmViewer Program Excute |
+| ISofAlarmInfoViewerVisible | bool bShow | AlarmViewer Program Show(true), Hide(false) |
+| ISofAlarmInfoViewerAlarmHappen | int nAlarmNo | Alarm 발생 시 해당 Alarm No을 AlarmViewer Program에 전달 |
+| ISofAlarmInfoViewerAlarmReset | none | Alarm Reset 이벤트 발생 시 Program에 전달 |
+| ISofAlarmInfoViewerAlarmSelect | int nAlarmNo | 선택 된 Alarm No의 Alarm 정보를 Display |
 
     * Window SendMessage 사용    
