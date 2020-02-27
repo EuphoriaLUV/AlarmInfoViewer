@@ -129,7 +129,7 @@
 
     * AlarmInfoViewer Edit 기능 활성화
 
-    > Video
+    > Video Link(아래 Image Click)
 
     [![Video Label](http://img.youtube.com/vi/bnaUTZk4SoM/0.jpg)](https://youtu.be/bnaUTZk4SoM?t=0s)
 
