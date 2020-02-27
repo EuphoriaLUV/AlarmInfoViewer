@@ -175,4 +175,5 @@
 | ISofAlarmInfoViewerAlarmReset | none | Alarm Reset 이벤트 발생 시 Program에 전달 |
 | ISofAlarmInfoViewerAlarmSelect | int nAlarmNo | 선택 된 Alarm No의 Alarm 정보를 Display |
 
-    * Window SendMessage 사용    
+
+ * Window SendMessage 사용    
