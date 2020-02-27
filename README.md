@@ -177,3 +177,18 @@
 
 
  * Window SendMessage 사용    
+    * Program Start : AlarmInfoViewer.exe Process Run(ex. WinExec)
+    * SendMessage
+
+```C++
+typedef struct tagCOPYDATASTRUCT {
+    ULONG_PTR dwData;
+    DWORD cbData;
+    __field_bcount(cbData) PVOID lpData;
+} COPYDATASTRUCT, *PCOPYDATASTRUCT;
+```
+        * Visible Show : dwData(0), cbData(1)
+        * Visible Hide : dwData(0), cbData(0)
+        * Alarm Happen : dwData(1), dbData(AlarmNo)
+        * Alarm Reset  : dwData(2)
+        * Alarm Select : dwData(3), dbData(AlarmNo)
