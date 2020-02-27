@@ -179,7 +179,6 @@
  * Window SendMessage 사용    
     * Program Start : AlarmInfoViewer.exe Process Run(ex. WinExec)
     * SendMessage
-
 ```C++
 typedef struct tagCOPYDATASTRUCT {
     ULONG_PTR dwData;
