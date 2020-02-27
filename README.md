@@ -128,8 +128,7 @@
         ```
 
     * AlarmInfoViewer Edit 기능 활성화
-
-    [![Video Label](https://www.youtube.com/watch?v=bnaUTZk4SoM)(https://www.youtube.com/watch?v=bnaUTZk4SoM)]
+    [![Video Label](http://img.youtube.com/vi/bnaUTZk4SoM/0.jpg)](https://youtu.be/bnaUTZk4SoM?t=0s)
 
 
     >![title](https://github.com/EuphoriaLUV/AlarmInfoViewer/blob/master/Image/Edit1.jpg "Window 화면을 늘리면 Edit Mode 버튼이 보임")
